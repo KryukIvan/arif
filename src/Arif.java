@@ -3,15 +3,15 @@ import java.util.Scanner;
 public class Arif {
     public static void main(String[] args) {
         Scanner in = new Scanner(System.in);
-        System.out.print("Введите первое дробное число: ");
+        System.out.print("Введите первое число: ");
         int x = in.nextInt();
         float a = x;
 
-        System.out.print("Введите второе дробное число: ");
+        System.out.print("Введите второе число: ");
         int y = in.nextInt();
         float b = y;
 
-        System.out.print("Введите третье дробное число: ");
+        System.out.print("Введите третье число: ");
         int z = in.nextInt();
         float c = z;
 
